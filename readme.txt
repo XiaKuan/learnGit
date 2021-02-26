@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of filessad .
 success connect to github
 turn off the fast forward model
+the bug have been fixed
